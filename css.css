@@ -1,8 +1,8 @@
 body{
-    margin: 350px;
+    margin-left: 350px;
     padding: 0px;
-    max-width: 2110px;
-    max-height: 720px;
+    max-width: 720px;
+    max-height: 2110px;
     font-family: 'Poppins', sans-serif;
     display: center;
     align-items: center;
